@@ -1,5 +1,5 @@
 {
-    "name": "honinmobile/zazzlepatches",
+    "name": "dgmon/zazzlepatches",
     "description": "A template engine for zazzle",
     "type": "plugin",
     "require": {
