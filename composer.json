@@ -3,7 +3,7 @@
     "description": "A template engine for zazzle",
     "type": "plugin",
     "require": {
-        "dgmon/zazzlecore": "master-dev"
+        "dgmon/zazzlecore": "dev-master"
     },
     "authors": [
         {
