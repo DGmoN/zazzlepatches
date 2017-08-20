@@ -1,0 +1,15 @@
+{
+    "name": "honinmobile/zazzlepatches",
+    "description": "A template engine for zazzle",
+    "type": "plugin",
+    "require": {
+        "dgmon/zazzlecore": "master-dev"
+    },
+    "authors": [
+        {
+            "name": "William",
+            "email": "darkhonin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
